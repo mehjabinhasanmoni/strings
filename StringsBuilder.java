@@ -29,6 +29,11 @@ public class StringsBuilder {
            sb.append("B"); // str = str + "B";
            System.out.println(sb);
 
+        //  Length
+            System.out.println(sb.length());
+             
+
+
 
 
 
